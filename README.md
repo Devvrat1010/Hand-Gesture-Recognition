@@ -24,8 +24,13 @@ Please start learning the following pre requisites for making the algorithm .
 
   @NotTheRightGuy has created a wonderful repository for learning git.
   - https://github.com/NotTheRightGuy/Learning-Git
-### When You are done with learning git , you are requested to fork this repository and update the members.txt file and add your details in the similar manner as I have done it .
-### 2.Python 
+  
+#### When You are done with learning git , you are requested to fork this repository and update the members.txt file and add your details in the similar manner as I have done it .
+
+#### After making suitable changes, create a push request and your changes will be reflected in the remote repository after approval.
+
+#### After that you will be provided with the repository you will be working for the next year.
+#### 2.Python 
 
   There are various sources to learn python.Most basic of them all is the following book .
   
