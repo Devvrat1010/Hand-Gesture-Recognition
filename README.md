@@ -46,7 +46,7 @@ Please start learning the following pre requisites for making the algorithm .
   - https://www.w3schools.com/python/numpy/default.asp
 
 ### 4.OpenCv
- - https://www.tutorialspoint.com/opencv/index.htm
+ - https://www.geeksforgeeks.org/opencv-python-tutorial/
 
 ### 5.Tensorflow
  - https://www.tutorialspoint.com/tensorflow/
